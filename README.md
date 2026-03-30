@@ -74,17 +74,6 @@ Construcción de dashboards para toma de decisiones mediante integración de mú
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=albeiro-jimenez&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=albeiro-jimenez&layout=compact&theme=github_dark" />
-</p>
----
-
 ## 📚 Formación Complementaria
 
 - 📊 Análisis de Datos – MinTIC / Avanzatec  
