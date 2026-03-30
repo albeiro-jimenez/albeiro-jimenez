@@ -111,7 +111,3 @@ Construcción de dashboards para toma de decisiones mediante integración de mú
 ---
 
 ⭐ *Siempre construyendo soluciones, no solo código*
-
----
-
-⭐ *Siempre construyendo soluciones, no solo código*
